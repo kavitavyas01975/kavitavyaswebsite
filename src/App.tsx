@@ -197,7 +197,7 @@ function App() {
             <div className="text-center lg:text-left order-2 lg:order-1">
               <div className="w-56 h-56 sm:w-64 sm:h-64 md:w-72 md:h-72 mx-auto lg:mx-0 rounded-full overflow-hidden shadow-2xl border-4 border-orange-200">
                 <img 
-                  src="src\assets\WhatsApp Image 2025-06-28 at 20.06.47_b55172d8.jpg" 
+                  src="https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=400" 
                   alt="Kavita Vyas - Hindi Teacher"
                   className="w-full h-full object-cover"
                 />
