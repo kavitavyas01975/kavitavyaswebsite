@@ -161,19 +161,20 @@ function App() {
         <div className="max-w-6xl mx-auto">
           <div className="text-center max-w-4xl mx-auto">
             <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-blue-900 mb-4 sm:mb-6 font-['Lora'] leading-tight px-2">
-              आत्मविश्वास के साथ हिंदी में निपुणता प्राप्त करें<br />
-              <span className="text-orange-600">सरल और प्रभावी तरीके से हिंदी सीखें</span>
+              Master Hindi with Confidence<br />
+              <span className="text-orange-600">आत्मविश्वास के साथ हिंदी में निपुणता प्राप्त करें</span>
             </h1>
             <p className="text-sm sm:text-base md:text-lg lg:text-xl text-blue-700 mb-6 sm:mb-8 leading-relaxed max-w-3xl mx-auto px-4">
-              सभी बोर्ड (CBSE, ICSE, State Boards) और सभी कक्षाओं के लिए व्यापक हिंदी कक्षाएं।
+              Expert Hindi coaching for all boards (CBSE, ICSE, State Boards) and all classes. 
+              Build a strong foundation with personalized guidance and achieve excellence in your Hindi examinations.
               <br className="hidden sm:block" />
-              विशेषज्ञ मार्गदर्शन के साथ मजबूत आधार बनाएं और अपनी हिंदी परीक्षाओं में उत्कृष्टता प्राप्त करें।
+              <span className="text-blue-600 font-medium">सभी बोर्ड और कक्षाओं के लिए व्यापक हिंदी शिक्षा</span>
             </p>
             <button 
               onClick={handleCTAClick}
               className="bg-gradient-to-r from-orange-500 to-orange-600 text-white text-sm sm:text-base lg:text-lg font-semibold px-6 sm:px-8 py-3 sm:py-4 rounded-full hover:from-orange-600 hover:to-orange-700 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl inline-flex items-center space-x-2 mx-4"
             >
-              <span>मुफ़्त डेमो क्लास बुक करें | Book Free Demo Class</span>
+              <span>Book Free Demo Class | मुफ़्त डेमो क्लास बुक करें</span>
               <ExternalLink size={16} className="sm:w-5 sm:h-5" />
             </button>
           </div>
